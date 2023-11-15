@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewpoint" content="width=device-width, inital-scale=1.0" />
+<title>Arts Museum Website | HTML, CSS, JavaScript, Bootstrap</title>
+</head>
+<body>
+
+<header>
+<a href="/" class="logo">Musem</a>
+<ul class="nav">
+<li>
+<a class="nav-btn active"  href="/">
+<ion-icon name="home-outline"></ion-icon>
+</a>
+</li>
+<li><a class="nav-btn" href="#">exhibitions</a></li>
+<li><a class="nav-btn" href="#">collection</a></li>
+<li><a class="nav-btn" href="#">events</a></li>
+<li><a class="nav-btn" href="#">shop</a></li>
+</ul>
+<a href="#" class="bag">
+</a>
+</header>
+<!--Navigation Mobile -->
+<!--Hero Banner Section -->
+<!--Main Section Start -->
+<!--Exhibition Section -->
+<!--Collection Secction -->
+<!--Events Section -->
+<!--Shop Section -->
+<!--Main Section End -->
+<!--Modal -->
+<!--JavaScriptVendors -->
+<script
+type="module"
+
